@@ -2,6 +2,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 import Homepage from './landing_page/home/Homepage';
 import Signup from './landing_page/signup/Signup';
