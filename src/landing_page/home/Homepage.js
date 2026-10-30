@@ -11,6 +11,7 @@ import OpenAccount from '../../OpenAccount';
 function Homepage() {
     return ( 
         <>
+
         
         <Hero/>
         <Awards/>
