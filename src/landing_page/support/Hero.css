@@ -1,0 +1,15 @@
+#supportHero {
+  background-color: #387ed1;
+  color: white;
+  min-height: 400px;
+}
+
+
+#supportHero a {
+  color: white;
+  text-decoration: underline;
+}
+
+#supportHero a:hover {
+  color: #dbeafe;
+}
