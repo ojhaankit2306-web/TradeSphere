@@ -1,6 +1,6 @@
 import React from "react";
 
-function RightSection({ imageURL, productName, productDesription, learnMore }) {
+function RightImage({ imageURL, productName, productDesription, learnMore }) {
   return (
     <div className="container mt-5">
       <div className="row">
@@ -19,4 +19,4 @@ function RightSection({ imageURL, productName, productDesription, learnMore }) {
   );
 }
 
-export default RightSection;
+export default RightImage;

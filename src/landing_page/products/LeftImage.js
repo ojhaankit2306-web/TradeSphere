@@ -1,6 +1,6 @@
 import React from "react";
 
-function LeftSection({
+function LeftImage({
   imageURL,
   productName,
   productDesription,
@@ -41,4 +41,4 @@ function LeftSection({
   );
 }
 
-export default LeftSection;
+export default LeftImage;
